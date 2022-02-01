@@ -10,7 +10,7 @@ Hello! My name's Burak Özcan. This is my solution to the Landify page. The task
 
 [LIVE PREVIEW](https://burakozcancf.github.io/Landify-Landing-Page/)
 
-[GitHub Repositorie](https://github.com/BurakOzcancf/Landify-Landing-Page)
+[The GitHub Repository](https://github.com/BurakOzcancf/Landify-Landing-Page)
 
 
 In this project, I use Figma however you can check the design folder to see how the final must result.
